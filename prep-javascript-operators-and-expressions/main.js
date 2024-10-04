@@ -1,0 +1,17 @@
+const number1 = 20;
+const number2 = 10;
+const charge = 5;
+const payment = 2;
+const amountRemaining = charge - payment;
+let test = 30;
+let assignment = 20;
+let final = 50;
+let grade = (test + assignment + final) / 3;
+const firstName = 'liam';
+const lastName = 'nguyen';
+const fullName = firstName + ' ' + lastName;
+const ph = 10;
+const isAcidic = ph < 7;
+let numberOfSoldiers = 20;
+let isSparta = numberOfSoldiers == 300;
+let nickname = fullName + ' ' + 'is the Goat';
